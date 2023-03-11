@@ -14,6 +14,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>Operating Systems Used </h2>
 
+- Azure Cloud Platform
 - Windows Server 2022
 
 
