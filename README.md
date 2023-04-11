@@ -21,7 +21,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>Quick Video Demonstrations of Deployment and Configuration</h2>
 
-1. Below I demonstrate an Install of Active Directroy on an Azure Virtual Machine
+1. Below I demonstrate an Install of Active Directory on an Azure Virtual Machine
 
 https://user-images.githubusercontent.com/105553606/223172483-2577b256-d80b-48b8-9e63-1666a8f90d37.mp4
 
