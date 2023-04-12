@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory Deployed in the Cloud (Microsoft Azure)</h1>
-This tutorial outlines the implementation of Active Directory within Azure Virtual Machines.<br />
+This project outlines the implementation of Active Directory within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -66,6 +66,9 @@ https://user-images.githubusercontent.com/105553606/223178684-55df9c91-8d65-4bff
 
 https://user-images.githubusercontent.com/105553606/223179390-b69d0523-3b28-45a0-95fa-69ae3c03dadc.mp4
 
+
+
+<h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
 
 
 
